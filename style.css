@@ -96,6 +96,17 @@
     background-color: hsl(149, 36%, 18%);
 }
 
+/* Footer */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 /* Desktop version */
 
 @media (min-width: 420px) {
